@@ -1,2 +1,2 @@
 # test
-test proj 4 usptu
+test proj 4 usptu REPOSITORY
